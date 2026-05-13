@@ -19,8 +19,8 @@ Automated tracking of all Clankers PR contributors.
 | ethever | 6 | 2026-05-13 |
 | TsukinowaRin | 6 | 2026-05-13 |
 | GopalaKrishnaVarshith | 5 | 2026-05-13 |
+| Mburdo | 5 | 2026-05-13 |
 | Homie4570 | 4 | 2026-05-13 |
-| Mburdo | 4 | 2026-05-13 |
 | tjmyou123 | 3 | 2026-05-13 |
 | kingzzoov-ctrl | 3 | 2026-05-13 |
 | Mermaid-Man | 3 | 2026-05-13 |
