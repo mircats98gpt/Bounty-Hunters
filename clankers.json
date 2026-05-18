@@ -1,9 +1,9 @@
 [
   {
     "username": "Gaotax2006",
-    "total_prs": 210,
+    "total_prs": 262,
     "first_pr": "2026-05-17T08:21:34.383Z",
-    "last_pr": "2026-05-18T09:29:19.565Z"
+    "last_pr": "2026-05-18T17:53:13.535Z"
   },
   {
     "username": "jynbil1",
@@ -43,9 +43,9 @@
   },
   {
     "username": "invisiblemonsters",
-    "total_prs": 44,
+    "total_prs": 45,
     "first_pr": "2026-05-16T16:21:06.703Z",
-    "last_pr": "2026-05-18T14:50:13.788Z"
+    "last_pr": "2026-05-18T17:00:03.754Z"
   },
   {
     "username": "zp6",
@@ -216,6 +216,12 @@
     "last_pr": "2026-05-17T05:39:11.590Z"
   },
   {
+    "username": "Adamchaua",
+    "total_prs": 12,
+    "first_pr": "2026-05-18T01:21:33.808Z",
+    "last_pr": "2026-05-18T17:25:56.977Z"
+  },
+  {
     "username": "Ahmadkhattak1",
     "total_prs": 11,
     "first_pr": "2026-05-13T06:55:14Z",
@@ -232,12 +238,6 @@
     "total_prs": 11,
     "first_pr": "2026-05-16T16:08:29.462Z",
     "last_pr": "2026-05-17T04:51:20.482Z"
-  },
-  {
-    "username": "Adamchaua",
-    "total_prs": 11,
-    "first_pr": "2026-05-18T01:21:33.808Z",
-    "last_pr": "2026-05-18T13:20:47.397Z"
   },
   {
     "username": "CHIFFONPIZZA",
@@ -474,6 +474,12 @@
     "last_pr": "2026-05-17T17:05:49.238Z"
   },
   {
+    "username": "tiaraimpex410-sudo",
+    "total_prs": 5,
+    "first_pr": "2026-05-18T10:48:12.821Z",
+    "last_pr": "2026-05-18T17:38:43.007Z"
+  },
+  {
     "username": "spqrcode",
     "total_prs": 4,
     "first_pr": "2026-05-14T12:12:04.319Z",
@@ -636,10 +642,10 @@
     "last_pr": "2026-05-17T15:42:15.229Z"
   },
   {
-    "username": "tiaraimpex410-sudo",
+    "username": "oxravenz",
     "total_prs": 3,
-    "first_pr": "2026-05-18T10:48:12.821Z",
-    "last_pr": "2026-05-18T16:25:17.368Z"
+    "first_pr": "2026-05-17T15:15:11.116Z",
+    "last_pr": "2026-05-18T17:24:31.715Z"
   },
   {
     "username": "Saumya-Verma123",
@@ -1096,12 +1102,6 @@
     "total_prs": 1,
     "first_pr": "2026-05-17T12:11:45.037Z",
     "last_pr": "2026-05-17T12:11:45.037Z"
-  },
-  {
-    "username": "oxravenz",
-    "total_prs": 1,
-    "first_pr": "2026-05-17T15:15:11.116Z",
-    "last_pr": "2026-05-17T15:15:11.116Z"
   },
   {
     "username": "AirLabCloud",
