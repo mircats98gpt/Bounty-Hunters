@@ -6,6 +6,12 @@
     "last_pr": "2026-05-26T14:49:03.303Z"
   },
   {
+    "username": "Vincent1-p",
+    "total_prs": 177,
+    "first_pr": "2026-06-01T19:31:00.610Z",
+    "last_pr": "2026-06-02T19:42:37.029Z"
+  },
+  {
     "username": "JirA44",
     "total_prs": 145,
     "first_pr": "2026-05-28T11:39:37.698Z",
@@ -40,12 +46,6 @@
     "total_prs": 91,
     "first_pr": "2026-05-18T05:55:49.424Z",
     "last_pr": "2026-05-26T21:20:09.479Z"
-  },
-  {
-    "username": "Vincent1-p",
-    "total_prs": 76,
-    "first_pr": "2026-06-01T19:31:00.610Z",
-    "last_pr": "2026-06-02T14:56:54.394Z"
   },
   {
     "username": "mkcash",
@@ -126,6 +126,12 @@
     "last_pr": "2026-05-15T16:28:44.461Z"
   },
   {
+    "username": "0xjc65eth",
+    "total_prs": 41,
+    "first_pr": "2026-05-29T08:31:44.342Z",
+    "last_pr": "2026-06-02T18:53:14.892Z"
+  },
+  {
     "username": "tungnguyentu",
     "total_prs": 40,
     "first_pr": "2026-05-14T12:19:23.886Z",
@@ -136,12 +142,6 @@
     "total_prs": 40,
     "first_pr": "2026-05-15T22:35:37.279Z",
     "last_pr": "2026-05-18T07:58:37.187Z"
-  },
-  {
-    "username": "0xjc65eth",
-    "total_prs": 40,
-    "first_pr": "2026-05-29T08:31:44.342Z",
-    "last_pr": "2026-06-02T06:52:54.315Z"
   },
   {
     "username": "JeremyZeng77",
@@ -2002,6 +2002,18 @@
     "total_prs": 1,
     "first_pr": "2026-06-02T04:50:27.912Z",
     "last_pr": "2026-06-02T04:50:27.912Z"
+  },
+  {
+    "username": "fennhelloworld",
+    "total_prs": 1,
+    "first_pr": "2026-06-02T16:41:54.428Z",
+    "last_pr": "2026-06-02T16:41:54.428Z"
+  },
+  {
+    "username": "JamesJi79",
+    "total_prs": 1,
+    "first_pr": "2026-06-02T17:37:50.610Z",
+    "last_pr": "2026-06-02T17:37:50.610Z"
   },
   {
     "username": "MichisGitIsKing",
