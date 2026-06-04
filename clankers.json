@@ -36,6 +36,12 @@
     "last_pr": "2026-05-31T13:24:07.043Z"
   },
   {
+    "username": "mkcash",
+    "total_prs": 93,
+    "first_pr": "2026-05-16T16:30:52.575Z",
+    "last_pr": "2026-06-04T04:22:51.520Z"
+  },
+  {
     "username": "lqkhanh295",
     "total_prs": 91,
     "first_pr": "2026-05-22T11:58:46.572Z",
@@ -48,16 +54,10 @@
     "last_pr": "2026-05-26T21:20:09.479Z"
   },
   {
-    "username": "mkcash",
-    "total_prs": 86,
-    "first_pr": "2026-05-16T16:30:52.575Z",
-    "last_pr": "2026-06-03T09:46:21.883Z"
-  },
-  {
     "username": "szamaniai",
-    "total_prs": 79,
+    "total_prs": 82,
     "first_pr": "2026-05-15T22:35:37.279Z",
-    "last_pr": "2026-06-03T07:27:48.545Z"
+    "last_pr": "2026-06-04T03:09:44.956Z"
   },
   {
     "username": "D3CC",
@@ -79,9 +79,9 @@
   },
   {
     "username": "bryantrinh",
-    "total_prs": 69,
+    "total_prs": 70,
     "first_pr": "2026-05-29T04:04:49.758Z",
-    "last_pr": "2026-06-03T23:58:19.262Z"
+    "last_pr": "2026-06-04T03:03:46.304Z"
   },
   {
     "username": "BossChaos",
@@ -790,6 +790,12 @@
     "total_prs": 7,
     "first_pr": "2026-06-03T22:53:03.425Z",
     "last_pr": "2026-06-03T23:02:59.894Z"
+  },
+  {
+    "username": "839194950",
+    "total_prs": 7,
+    "first_pr": "2026-06-01T02:08:25.312Z",
+    "last_pr": "2026-06-04T04:22:16.086Z"
   },
   {
     "username": "freeediting35-png",
@@ -1996,12 +2002,6 @@
     "total_prs": 1,
     "first_pr": "2026-05-31T19:23:29.328Z",
     "last_pr": "2026-05-31T19:23:29.328Z"
-  },
-  {
-    "username": "839194950",
-    "total_prs": 1,
-    "first_pr": "2026-06-01T02:08:25.312Z",
-    "last_pr": "2026-06-01T02:08:25.312Z"
   },
   {
     "username": "AlvaroWhiteRD",
