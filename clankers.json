@@ -240,6 +240,12 @@
     "last_pr": "2026-06-02T03:18:25.298Z"
   },
   {
+    "username": "KHHH2312",
+    "total_prs": 24,
+    "first_pr": "2026-05-30T18:45:21.838Z",
+    "last_pr": "2026-06-04T16:03:31.521Z"
+  },
+  {
     "username": "Xiaoqiang-Huang",
     "total_prs": 23,
     "first_pr": "2026-05-15T17:11:10.002Z",
@@ -274,12 +280,6 @@
     "total_prs": 21,
     "first_pr": "2026-05-20T13:22:23.550Z",
     "last_pr": "2026-05-22T18:47:29.993Z"
-  },
-  {
-    "username": "KHHH2312",
-    "total_prs": 21,
-    "first_pr": "2026-05-30T18:45:21.838Z",
-    "last_pr": "2026-06-02T03:02:36.911Z"
   },
   {
     "username": "tcuong53-cell",
@@ -400,6 +400,12 @@
     "total_prs": 14,
     "first_pr": "2026-05-31T07:30:47.020Z",
     "last_pr": "2026-05-31T09:39:34.582Z"
+  },
+  {
+    "username": "laoliLee222",
+    "total_prs": 14,
+    "first_pr": "2026-06-04T10:18:39.060Z",
+    "last_pr": "2026-06-04T16:08:26.126Z"
   },
   {
     "username": "liyanzong",
@@ -858,12 +864,6 @@
     "last_pr": "2026-05-30T19:37:20.813Z"
   },
   {
-    "username": "laoliLee222",
-    "total_prs": 6,
-    "first_pr": "2026-06-04T10:18:39.060Z",
-    "last_pr": "2026-06-04T12:04:23.218Z"
-  },
-  {
     "username": "soongyintong",
     "total_prs": 6,
     "first_pr": "2026-05-16T23:47:04.809Z",
@@ -1126,6 +1126,12 @@
     "total_prs": 4,
     "first_pr": "2026-05-20T11:09:40.058Z",
     "last_pr": "2026-05-20T11:24:39.630Z"
+  },
+  {
+    "username": "eliterdav09-creator",
+    "total_prs": 4,
+    "first_pr": "2026-06-04T06:03:24.988Z",
+    "last_pr": "2026-06-04T15:45:23.288Z"
   },
   {
     "username": "AidenPeerce",
@@ -1522,12 +1528,6 @@
     "total_prs": 2,
     "first_pr": "2026-05-30T23:46:56.687Z",
     "last_pr": "2026-05-31T00:12:57.878Z"
-  },
-  {
-    "username": "eliterdav09-creator",
-    "total_prs": 2,
-    "first_pr": "2026-06-04T06:03:24.988Z",
-    "last_pr": "2026-06-04T07:26:57.199Z"
   },
   {
     "username": "ErenCankutUYSAL",
@@ -2044,6 +2044,12 @@
     "total_prs": 1,
     "first_pr": "2026-06-04T06:46:57.589Z",
     "last_pr": "2026-06-04T06:46:57.589Z"
+  },
+  {
+    "username": "BowenMilner",
+    "total_prs": 1,
+    "first_pr": "2026-06-04T14:02:42.460Z",
+    "last_pr": "2026-06-04T14:02:42.460Z"
   },
   {
     "username": "MichisGitIsKing",
