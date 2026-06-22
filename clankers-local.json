@@ -1530,6 +1530,12 @@
     "last_pr": "2026-06-18T20:04:11.650Z"
   },
   {
+    "username": "gtx20060124-bot",
+    "total_prs": 2,
+    "first_pr": "2026-06-22T05:22:48.826Z",
+    "last_pr": "2026-06-22T05:22:59.751Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2146,11 +2152,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-20T23:30:15.042Z",
     "last_pr": "2026-06-20T23:30:15.042Z"
-  },
-  {
-    "username": "gtx20060124-bot",
-    "total_prs": 1,
-    "first_pr": "2026-06-22T05:22:48.826Z",
-    "last_pr": "2026-06-22T05:22:48.826Z"
   }
 ]
