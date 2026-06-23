@@ -144,6 +144,12 @@
     "last_pr": "2026-05-29T03:08:23.211Z"
   },
   {
+    "username": "gtx20060124-bot",
+    "total_prs": 51,
+    "first_pr": "2026-06-22T04:34:36.546Z",
+    "last_pr": "2026-06-23T01:11:31.699Z"
+  },
+  {
     "username": "lb1192176991-lab",
     "total_prs": 50,
     "first_pr": "2026-06-12T18:45:04.352Z",
@@ -190,12 +196,6 @@
     "total_prs": 36,
     "first_pr": "2026-05-16T00:58:51.932Z",
     "last_pr": "2026-05-16T04:23:02.954Z"
-  },
-  {
-    "username": "gtx20060124-bot",
-    "total_prs": 36,
-    "first_pr": "2026-06-22T04:34:36.546Z",
-    "last_pr": "2026-06-22T22:46:25.742Z"
   },
   {
     "username": "jaxassistant55",
@@ -1374,6 +1374,12 @@
     "last_pr": "2026-06-22T16:51:15.184Z"
   },
   {
+    "username": "syu-toutousai",
+    "total_prs": 4,
+    "first_pr": "2026-06-22T13:09:33.034Z",
+    "last_pr": "2026-06-22T23:29:26.114Z"
+  },
+  {
     "username": "AidenPeerce",
     "total_prs": 3,
     "first_pr": "2026-05-13T13:22:13Z",
@@ -1864,12 +1870,6 @@
     "total_prs": 2,
     "first_pr": "2026-05-30T23:46:56.687Z",
     "last_pr": "2026-05-31T00:12:57.878Z"
-  },
-  {
-    "username": "syu-toutousai",
-    "total_prs": 2,
-    "first_pr": "2026-06-22T13:09:33.034Z",
-    "last_pr": "2026-06-22T14:32:12.223Z"
   },
   {
     "username": "ErenCankutUYSAL",
