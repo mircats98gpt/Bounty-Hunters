@@ -72,6 +72,12 @@
     "last_pr": "2026-06-13T06:14:07.163Z"
   },
   {
+    "username": "gtx20060124-bot",
+    "total_prs": 88,
+    "first_pr": "2026-06-22T04:34:36.546Z",
+    "last_pr": "2026-06-23T10:27:56.930Z"
+  },
+  {
     "username": "bryantrinh",
     "total_prs": 87,
     "first_pr": "2026-05-29T04:04:49.758Z",
@@ -82,12 +88,6 @@
     "total_prs": 74,
     "first_pr": "2026-05-16T11:56:16.051Z",
     "last_pr": "2026-05-17T14:06:21.377Z"
-  },
-  {
-    "username": "gtx20060124-bot",
-    "total_prs": 73,
-    "first_pr": "2026-06-22T04:34:36.546Z",
-    "last_pr": "2026-06-23T06:40:14.808Z"
   },
   {
     "username": "simisdav55-oss",
@@ -282,6 +282,12 @@
     "last_pr": "2026-05-21T06:47:36.509Z"
   },
   {
+    "username": "wulansari999",
+    "total_prs": 25,
+    "first_pr": "2026-06-22T01:36:35.500Z",
+    "last_pr": "2026-06-23T08:27:21.263Z"
+  },
+  {
     "username": "lry3069-afk",
     "total_prs": 25,
     "first_pr": "2026-05-25T03:45:15.005Z",
@@ -364,12 +370,6 @@
     "total_prs": 19,
     "first_pr": "2026-05-28T22:07:39.551Z",
     "last_pr": "2026-05-29T01:09:03.806Z"
-  },
-  {
-    "username": "wulansari999",
-    "total_prs": 19,
-    "first_pr": "2026-06-22T01:36:35.500Z",
-    "last_pr": "2026-06-23T05:49:27.048Z"
   },
   {
     "username": "shengtenghou4-star",
@@ -718,6 +718,18 @@
     "total_prs": 9,
     "first_pr": "2026-05-21T02:53:24.037Z",
     "last_pr": "2026-05-21T03:30:06.032Z"
+  },
+  {
+    "username": "Shaidyk",
+    "total_prs": 9,
+    "first_pr": "2026-06-18T16:31:08.499Z",
+    "last_pr": "2026-06-23T09:38:10.289Z"
+  },
+  {
+    "username": "maojianian25-png",
+    "total_prs": 9,
+    "first_pr": "2026-06-14T18:53:07.511Z",
+    "last_pr": "2026-06-23T09:19:28.967Z"
   },
   {
     "username": "hamademon168-bot",
@@ -1182,22 +1194,10 @@
     "last_pr": "2026-06-02T07:33:16.776Z"
   },
   {
-    "username": "Shaidyk",
-    "total_prs": 5,
-    "first_pr": "2026-06-18T16:31:08.499Z",
-    "last_pr": "2026-06-22T22:39:01.528Z"
-  },
-  {
     "username": "Alex-2Code",
     "total_prs": 5,
     "first_pr": "2026-05-17T18:07:52.329Z",
     "last_pr": "2026-05-19T01:16:01.294Z"
-  },
-  {
-    "username": "maojianian25-png",
-    "total_prs": 5,
-    "first_pr": "2026-06-14T18:53:07.511Z",
-    "last_pr": "2026-06-15T20:03:46.228Z"
   },
   {
     "username": "bounty-bot-beep",
