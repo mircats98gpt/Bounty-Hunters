@@ -486,6 +486,12 @@
     "last_pr": "2026-05-31T09:39:34.582Z"
   },
   {
+    "username": "daxia778",
+    "total_prs": 14,
+    "first_pr": "2026-06-26T01:59:32.647Z",
+    "last_pr": "2026-06-26T08:17:18.801Z"
+  },
+  {
     "username": "liyanzong",
     "total_prs": 14,
     "first_pr": "2026-05-28T10:45:54.231Z",
@@ -1348,12 +1354,6 @@
     "total_prs": 4,
     "first_pr": "2026-06-25T23:58:28.378Z",
     "last_pr": "2026-06-26T00:07:40.563Z"
-  },
-  {
-    "username": "daxia778",
-    "total_prs": 4,
-    "first_pr": "2026-06-26T01:59:32.647Z",
-    "last_pr": "2026-06-26T02:38:09.955Z"
   },
   {
     "username": "Aaloklovanshi",
@@ -2502,6 +2502,12 @@
     "last_pr": "2026-06-18T04:49:32.171Z"
   },
   {
+    "username": "LaikiWyld",
+    "total_prs": 1,
+    "first_pr": "2026-06-26T07:18:16.932Z",
+    "last_pr": "2026-06-26T07:18:16.932Z"
+  },
+  {
     "username": "MichisGitIsKing",
     "total_prs": 1,
     "first_pr": "2026-05-17T14:46:14.182Z",
@@ -2656,5 +2662,11 @@
     "total_prs": 1,
     "first_pr": "2026-06-20T23:12:40.806Z",
     "last_pr": "2026-06-20T23:12:40.806Z"
+  },
+  {
+    "username": "mkseo1012-pixel",
+    "total_prs": 1,
+    "first_pr": "2026-06-26T07:27:38.579Z",
+    "last_pr": "2026-06-26T07:27:38.579Z"
   }
 ]
